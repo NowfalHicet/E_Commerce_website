@@ -7,7 +7,7 @@ import CategoryMenu from "./Component/CategoryMenu";
 import Footer from "./Component/Footer";
 import CartBox from "./Component/ProductsInTheCart/CartBox";
 import { useState } from "react";
-
+// SKJSJBK
 const App = () => {
   const [isCartDrawerOpen, setIsCartDrawerOpen] = useState(false);
   const [cartItemCount, setCartItemCount] = useState(0);
